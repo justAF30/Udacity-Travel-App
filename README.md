@@ -1,6 +1,6 @@
-# Udacity Nanodegree Program - Weather-Journal-App
+# Udacity Nanodegree Program - Travel-App
 
-Udacity Nanodegree program - Weather-Journal-App Project
+Udacity Nanodegree program - Travel-App Project
 
 **Version 1.0.0**
 
